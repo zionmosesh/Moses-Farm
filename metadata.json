@@ -1,0 +1,6 @@
+{
+  "name": "Verdant Harvest - Agro E-Commerce & Produce Studio",
+  "description": "Upload text-based produce menus to generate high-end agricultural catalogs with realistic harvest photography across Rustic/Dark, Bright/Modern, and Social Media aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
